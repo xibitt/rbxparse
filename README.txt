@@ -11,10 +11,10 @@ printidentity
 print
 warn
 Instance.new
-:BreakJoints()
-:Destroy()
-:Play()
-:Stop()
+BreakJoints
+Destroy
+Play
+Stop
 info
 error
 wait
